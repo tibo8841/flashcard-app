@@ -1,3 +1,3 @@
-# flashcard-app
+# notes-app
 
-# this is a web app where you can make and organise flashcards to help you learn
+# this is a web app where you can make and organise notes
